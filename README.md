@@ -3,7 +3,7 @@ Sniffing serial port RS485 Modbus between the Meter DTSU666H and the inverter Hu
 Nod-Red flows for listenig and sniffing serial port 485 Modbus between the Meter DTSU666H and the inverter Huawei Sun2000. 
 
 What to buy:
-RS485 Wifi or LAN serial port, e.g. ELFIN EW11A Wifi
+RS485 Wifi or LAN serial port, e.g. ELFIN EW11A Wifi,
 Shielded UTP twisted pair internet cable
 
 How to set up Elfin EW11A:
