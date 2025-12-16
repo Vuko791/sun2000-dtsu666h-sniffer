@@ -26,4 +26,4 @@ Elfin Ew11 settings:
 
 Submit All and Restart Elfin EW11
 
-Go to the Elfin internet address with the new IP, ending with the number you assigned. The UDP port 2005 is activated anh binary data sends do NodRed on port 2005.
+Go to the Elfin internet address with the new IP, ending with the number you assigned. The UDP port 2005 is activated anh binary data sends to NodRed on port 2005.
