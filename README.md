@@ -18,12 +18,12 @@ The login and password for Elfin are: admin and admin .
 
 Elfin Ew11 settings:
 
-"System settings tab" DHCP: Disable DHCP (then Elfin's address on the network will be permanent), WAN IP: Enter the IP address of your Elfin in the LAN network (if the router assigns low IP numbers to devices in the LAN, it is best to assign the Elfin a high number ending, e.g. 192.168.1.200 max 254), SUbnet mask: your LAN mask, usually: 255.255.255.0 ("Status" tab to check), Gateway:IP address of your network router which is the gateway to the Internet ("Status" tab to check), DNS: ,
+"System settings tab"- DHCP: Disable DHCP (then Elfin's address on the network will be permanent), WAN IP: Enter the IP address of your Elfin in the LAN network (if the router assigns low IP numbers to devices in the LAN, it is best to assign the Elfin a high number ending, e.g. 192.168.1.200 max 254), Subnet mask: your LAN mask, usually: 255.255.255.0 ("Status" tab to check), Gateway: IP address of your network router which is the gateway to the Internet ("Status" tab to check), DNS: 1.1.1.1 or 8.8.8.8,
 
-"Serial Port tab" Baund Rate: 9600, Bata bit: 8, Stop bit: 1, Parity: 0, Buffer Size: 512, Gap Time: 50, Cli: Serial String, Srial String: +++, Waiting Toime: 15, Flow control: Disable, Protocol: None,
+"Serial Port tab"- Baund Rate: 9600, Bata bit: 8, Stop bit: 1, Parity: 0, Buffer Size: 512, Gap Time: 50, Cli: Serial String, Srial String: +++, Waiting Toime: 15, Flow control: Disable, Protocol: None,
 
-"Comumunication Settings tab": Protocol: UDP Client, Serwer: your IP LAN Nod-Red, Server POrt: 2005, Local Port: 2005, Buffer Size: 512, Keep Alive: 60, Timeout: 0, Connect Mode: Always, Register Mode: Disable, Security: Disable, Route: UART,
+"Comumunication Settings tab"- Protocol: UDP Client, Serwer: your IP LAN Nod-Red, Server POrt: 2005, Local Port: 2005, Buffer Size: 512, Keep Alive: 60, Timeout: 0, Connect Mode: Always, Register Mode: Disable, Security: Disable, Route: UART,
 
 Submit All and Restart Elfin EW11
 
-Go to the Elfin internet address with the new IP, ending with the number you assigned in point 8 of the instructions. The UDP port 2005 is activated.
+Go to the Elfin internet address with the new IP, ending with the number you assigned. The UDP port 2005 is activated anh binary data sends do NodRed on port 2005.
