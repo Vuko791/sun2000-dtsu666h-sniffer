@@ -9,7 +9,7 @@ Nod-Red flows for listenig and sniffing serial port 485 Modbus between the Meter
 # How to set up Elfin EW11A:
 
 - Use the Elfin setup instructions. Type google.com: elfin ew11 manual pdf 
-- Connect the Elfin Ew11 module to the RS485 Modbus bus between the inverter and the meter A+ to RS485A B- to RS485B.
+- Connect the Elfin Ew11 module to the RS485 Modbus bus between the inverter and the meter: A+ to RS485A , B- to RS485B.
 - Connect the Elfin EW11 module to a DC power supply with a voltage of 5V to 18V (DC 5V 500mA power supply).
 - After logging in to elfin Ew11, select your Wi-Fi network and enter the password (description in the original manual) and reset the Elfin device.
 - Your router has assigned an IP number in your LAN network for Elfin Ew11, to check it download an application on your phone, e.g. "Net Anlayzer" and scan your network to find the IP number from Elfin.
