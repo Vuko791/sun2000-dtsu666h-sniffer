@@ -22,7 +22,7 @@ Elfin Ew11 settings:
 
 "Serial Port tab"- Baund Rate: 9600, Bata bit: 8, Stop bit: 1, Parity: 0, Buffer Size: 512, Gap Time: 50, Cli: Serial String, Srial String: +++, Waiting Toime: 15, Flow control: Disable, Protocol: None,
 
-"Comumunication Settings tab"- Protocol: UDP Client, Serwer: your IP LAN Nod-Red, Server POrt: 2005, Local Port: 2005, Buffer Size: 512, Keep Alive: 60, Timeout: 0, Connect Mode: Always, Register Mode: Disable, Security: Disable, Route: UART,
+"Comumunication Settings tab"- Protocol: UDP Client, Serwer: your IP LAN Nod-Red, Server Port: 2005, Local Port: 2005 or other, Buffer Size: 512, Keep Alive: 60, Timeout: 0, Connect Mode: Always, Register Mode: Disable, Security: Disable, Route: UART,
 
 Submit All and Restart Elfin EW11
 
